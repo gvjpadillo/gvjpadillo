@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-It’s either 0% or 100%<br>if (motivation.exists()) {<br>    return "48_hour_coding_session()";<br>} else {<br>    return "staring_at_blank_screen.exe";<br>}<br><br>Student with no permanent interests.<br><br>Looking for:<br>Study buddies who also procrastinate creatively.<br>People to enable my random project ideas.<br>Coffee recommendations that won't give me heart palpitations.<br>A time management system that accounts for "random bursts"
+It’s either 0% or 100%<br><br>Student with no permanent interests.<br><br>Looking for:<br>Study buddies who also procrastinate creatively.<br>People to enable my random project ideas.<br>Coffee recommendations that won't give me heart palpitations.<br>A time management system that accounts for "random bursts"
 
 
 ## 🌐 Socials:
