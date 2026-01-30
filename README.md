@@ -15,3 +15,5 @@ Olá! こんにちは! 안녕하세요! 你好! สวัสดี!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gvjpadillo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img width="1920" height="1080" alt="L3" src="https://github.com/user-attachments/assets/d5cb11b1-1ae1-4749-9d09-4f91c7b62561" />
