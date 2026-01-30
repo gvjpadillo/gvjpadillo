@@ -1,3 +1,4 @@
+Olá! こんにちは! 안녕하세요! 你好! สวัสดี!
 
 **It’s either 0% or 100% 😎**<br><br>Just a student with no permanent interests.<br><br>A little knowledgeable in random things.🤓<br><br>✨Looking for:<br>📚Study buddies who also procrastinate creatively.<br>🫂People to enable my random project ideas.<br>☕Coffee recommendations that won't give me heart palpitations.<br>🕙A time management system that accounts for "random bursts"
 
@@ -14,5 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gvjpadillo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
