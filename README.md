@@ -1,5 +1,5 @@
 
-**It’s either 0% or 100%**<br><br>Just a student with no permanent interests.<br><br>JA little knowledgeable in random things.<br><br>Looking for:<br>Study buddies who also procrastinate creatively.<br>People to enable my random project ideas.<br>Coffee recommendations that won't give me heart palpitations.<br>A time management system that accounts for "random bursts"
+**It’s either 0% or 100%  ;)**<br><br>Just a student with no permanent interests.<br><br>A little knowledgeable in random things.<br><br>Looking for:<br>Study buddies who also procrastinate creatively.<br>People to enable my random project ideas.<br>Coffee recommendations that won't give me heart palpitations.<br>A time management system that accounts for "random bursts"
 
 
 ## 🌐 Socials:
